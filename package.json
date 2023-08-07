@@ -4,7 +4,7 @@
 	"description": "Blank React project to start",
 	"main": "index.js",
 	"scripts": {
-		"start": "parcel index.html"
+		"start": "parcel index.html --https"
 	},
 	"repository": {
 		"type": "git",
